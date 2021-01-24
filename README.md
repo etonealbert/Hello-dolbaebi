@@ -1,2 +1,2 @@
-# Hello-dolbaebi
+# Hello
 It my repository
